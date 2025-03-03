@@ -16,4 +16,6 @@ Read a few works from each volume of the [Electronic Literature Collection](http
 Select one work from each volume that you read and for each write:
 
 * What makes the work a piece of digital writing
+
+
 * A personal response (whether you liked it, how it made you feel &c)
